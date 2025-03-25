@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Flutter-paint-Feature
 Made use of Custom Paint in this simple drawing feature , where users can draw and erase 
 =======
@@ -19,3 +20,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> f2b9b67 (Flutter drawing feature release)
+=======
+Final resolved content for README.md
+
+>>>>>>> e5f01765e638aae5b8ee62c721bcab386ad29476
